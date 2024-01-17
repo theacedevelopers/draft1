@@ -419,6 +419,14 @@ footer h4{
 }
 
 @media(max-width:800px){
+
+    .social-media{
+        padding-top: 5px;
+
+    }
+    .navbar{
+        padding-top: 5px;
+    }
     .about-content-2{
         display: flex;
         flex-direction: column;
